@@ -1,7 +1,10 @@
 .banner {
-  height: 30vh;
+  margin: 0 auto;
+  height: 370px;
+  max-width: 1200px;
   position: relative;
-  background-image: url('https://a0.muscache.com/im/pictures/4b5b2c9e-9d97-4fb7-8826-1529dacb13df.jpg?im_w=1200');
+  border-radius: 10px;
+  background-image: url('https://a0.muscache.com/im/pictures/bbb00ab3-15aa-4d32-8cf4-8190f1e6907a.jpg');
 }
 
 .banner__search {

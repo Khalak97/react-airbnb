@@ -1,4 +1,6 @@
 .home__section {
+  max-width: 1270px;
+  margin: 0 auto;
   display: flex;
   padding: 30px;
 }
